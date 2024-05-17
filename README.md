@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/peterkpabitey" target="blank"><img src="https://img.shields.io/twitter/follow/peterkpabitey?logo=twitter&style=for-the-badge" alt="peterkpabitey" /></a> </p>
 
-- 🔭 I’m currently working on **Skyfit**
+- 🔭 I’m currently working on **CampusMart**
 
-- 🌱 I’m currently learning **Dart with Flutter**
+- 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **Cloud Engineering,MERN**
 
