@@ -1,4 +1,4 @@
-[![MasterHead](https://www.opsview.com/sites/default/files/banner-img/Banner-Img-AWS-2.jpeg)](https://rishavchanda.io)
+[![MasterHead](https://www.pngitem.com/pimgs/m/549-5491062_aws-logo-in-a-floating-cloud-illustration-hd.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Peter Baah Kpabitey</h1>
 <h3 align="center">A passionate Cloud Professional and Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
