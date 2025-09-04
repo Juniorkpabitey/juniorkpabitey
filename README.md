@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/peterkpabitey" target="blank"><img src="https://img.shields.io/twitter/follow/peterkpabitey?logo=twitter&style=for-the-badge" alt="peterkpabitey" /></a> </p>
 
-- 🔭 I’m currently working on **SKyfit** - a project helping to reduce Mortality rate among Pregnant Women and Infants in Ghana and Africa
+- 🔭 I’m currently working on **Skyfit Health** - a project helping to reduce Mortality rate among Pregnant Women and Infants in Ghana and Africa
 
-- 🌱 I’m currently learning **React-Native**
-
-- 💬 Ask me about **Cloud Engineering,MERN**
+- 🌱 I’m currently learning and building with ** Next.js for Web and React-Native for Mobile**
 
 - 📫 How to reach me **juniorkpabitey123@gmail.com**
 
